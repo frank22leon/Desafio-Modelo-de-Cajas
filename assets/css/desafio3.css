@@ -1,0 +1,92 @@
+body {
+    background-color: white;
+}
+/*base bandera*/
+.flag {
+    background-color: white;
+    width:500px;
+    height:300px;
+    margin: 20px;
+    float: left;
+    border: 1px solid gray;
+}
+/*bandera España*/
+.spainUno {
+    background-color: #AD1519;
+    height:25%;
+}
+.spainDos {
+    background-color: #FABD00;
+    height:50%;
+}
+.spainTres {
+    background-color: #AD1519;
+    height:25%;
+}
+/*bandera Dinamarca*/
+.denmarkUno {
+    background-color: #c60c30;
+    width:25%; 
+    height:45%;   
+}
+.denmarkDos {
+    background-color: #c60c30;
+    width:25%; 
+    height:45%;
+    position: relative;
+    top: 10%;
+}
+.denmarkTres {
+    background-color: #c60c30;
+    width:70%; 
+    height:45%;
+    position: relative;
+    left: 30%;
+    bottom: 35%;
+}
+.denmarkCuatro {
+    background-color: #c60c30;
+    width: 70%; 
+    height:45%;
+    position: relative;
+    bottom: 135%;
+    left: 30%;
+}
+/*bandera Emiratos Arabes*/
+.arabEmiratesUno {
+    background-color: red;
+    width:  25%;
+    height: 100%;
+
+}
+.arabEmiratesDos {
+    background-color: green;
+    width:  75%;
+    height: 33.33%;
+    position: relative;
+    bottom: 100%;
+    left: 25%;    
+}
+.arabEmiratesTres {
+    background-color: black;
+    width:  75%;
+    height: 33.33%;
+    position: relative;
+    bottom: 66.66%;
+    left: 25%;    
+}
+/*bandera Japon*/
+.japan  {
+    background-color:red;
+    width: 120px;
+     height: 120px;
+    border-radius: 50%;
+    position: relative;
+    top: 30%;
+    left: 38%;
+    
+}                                                    
+
+
+
+
