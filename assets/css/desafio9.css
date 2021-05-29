@@ -1,0 +1,54 @@
+/*reset*/
+body    {
+    margin: 0;
+    padding: 0;
+}
+/*navbar*/
+.title {
+    color: white;
+    background-color:black;
+    height: 60px;
+    width: 100%;
+    position:   fixed;
+    top: 0;
+    padding: 10px;
+}
+/*seccion principal*/
+.hero-section {
+    margin-top: 5rem;
+    display: flex;
+}
+.menu {
+    
+    color: black;
+    background-color:lightgray;
+    width: 50%;
+    height: 20rem;
+    display: inline; 
+}
+.menu a {
+    display: block;
+    padding-left: 40px;
+    padding-top: 5px;
+}
+.menu h1 {
+    padding: 20px;
+}
+.sub-title {
+    color: black;
+    width: 50%;
+}
+
+.sub-title h1, .sub-title p {
+    padding: 20px;
+}
+/*footer*/
+footer {
+    background-color:gray;
+    color: white;
+    padding:10px;
+    text-align:center;
+}
+
+
+
